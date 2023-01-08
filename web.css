@@ -1,0 +1,37 @@
+.ok {
+    font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white;
+text-decoration: underline;
+} 
+    .para{
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: rgb(0, 0, 0);
+        text-decoration-thickness: white;
+         -moz-text-decoration-color: antiquewhite;
+        text-rendering: auto;
+        background-color: grey;
+        
+        
+    }
+    body{ 
+        background-image:url(Nikola-Tesla-Publicity-photo-laboratory-Colorado-Springs-December-1899.webp);
+         background-position: cover;
+         background-size: cover;
+          
+    }
+.pic{
+    align-self: center;
+    height: 500px;
+    width: 400px;
+}
+.a{
+    font-size: larger;
+    color: blue;
+    background-color: grey;
+    
+}
+.button{
+    color: grey;
+    border-radius: 50px;
+}
